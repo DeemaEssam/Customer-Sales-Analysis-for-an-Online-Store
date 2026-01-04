@@ -11,6 +11,6 @@ To analyze sales performance, identify top-performing categories and products, a
 🔹 Dashboard 3 – Time Series Analysis
 To analyze sales trends over time, identify seasonal patterns, and support forecasting of future sales.
 
-<img width="350" height="1080" alt="Screenshot (864)" src="https://github.com/user-attachments/assets/785c51a3-221f-43e5-9a17-33bb3edbb053" />
-<img width="350" height="1080" alt="Screenshot (865)" src="https://github.com/user-attachments/assets/6c5d4477-d686-458e-99b7-ee79a3bf6be4" />
-<img width="350" height="1080" alt="Screenshot (863)" src="https://github.com/user-attachments/assets/7680c532-59ca-4107-9b6b-05c4d7d731ff" />
+<img width="340" height="1080" alt="Screenshot (864)" src="https://github.com/user-attachments/assets/785c51a3-221f-43e5-9a17-33bb3edbb053" />
+<img width="340" height="1080" alt="Screenshot (865)" src="https://github.com/user-attachments/assets/6c5d4477-d686-458e-99b7-ee79a3bf6be4" />
+<img width="340" height="1080" alt="Screenshot (863)" src="https://github.com/user-attachments/assets/7680c532-59ca-4107-9b6b-05c4d7d731ff" />
